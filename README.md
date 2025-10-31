@@ -48,7 +48,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,photoshop,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,photoshop,tailwind,postman" />
 </p>
 
 ---
@@ -60,12 +60,6 @@
 </div>
 
 ---
-
-### 🔥 Streak Stats  
-<p align="center">
-  ![Ahmed Hesham's streak](https://streak-stats.demolab.com?user=etsh0&theme=radical&hide_border=true)
-</p>
-
 
 
 
