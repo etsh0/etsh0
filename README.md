@@ -62,9 +62,9 @@
 ---
 
 ### 🔥 Streak Stats  
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=etsh0&theme=radical&hide_border=true" alt="Ahmed Hesham's streak"/>
-</p>
+</p>](https://streak-stats.demolab.com?user=etsh0&theme=radical&hide_border=true)
 
 
 ---
