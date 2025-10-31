@@ -63,8 +63,9 @@
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=etsh0&theme=radical&hide_border=true" alt="Ahmed Hesham's streak" />
+  ![Ahmed Hesham's streak](https://streak-stats.demolab.com?user=etsh0&theme=radical&hide_border=true)
 </p>
+
 
 
 
