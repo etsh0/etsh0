@@ -4,7 +4,7 @@
 
 <!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=etsh0&label=Profile%20views&color=#ccc&style=flat" alt="etsh0" />
+  <img src="https://komarev.com/ghpvc/?username=etsh0&label=Profile%20views&color=#2f3d2c&style=flat" alt="etsh0" />
 </p>
 
 ---
