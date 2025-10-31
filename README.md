@@ -14,7 +14,7 @@
   <img src="https://avatars.githubusercontent.com/etsh0"
        alt="Ahmed Hesham"
        width="180"
-       style="border-radius:50%; border: 3px solid #ff69b4; box-shadow: 0 0 25px rgba(255, 105, 180, 0.5); margin-top:15px;">
+       style="border-radius:50%; border: 3px solid #ff69b4; box-shadow: 0 0 25px rgba(0, 0, 180, 0.5); margin-top:15px;">
 </p>
 
 ---
